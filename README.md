@@ -1,4 +1,5 @@
 # COVID-19 Data Analysis with PySpark
+![1_Zw7I3qveEp_4NThaACeyTQ](https://github.com/Abdullah28-gheyad/Practical-Session-Spark-SQL-/assets/68871710/89947178-c746-490f-850d-760b5a1b786c)
 
 # Overview
 This project uses PySpark to perform data analysis on the [NeurIPS 2020 Data Science for COVID-19 (DS4C)] dataset obtained from Kaggle. The dataset contains valuable information about COVID-19 patients, such as patient demographics, infection details, and outcomes. In this repository, we demonstrate how to load and preprocess the data, as well as perform various analyses to gain insights.
